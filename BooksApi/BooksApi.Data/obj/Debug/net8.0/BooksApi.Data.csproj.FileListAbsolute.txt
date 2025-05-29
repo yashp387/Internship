@@ -1,0 +1,12 @@
+D:\Tatvasoft Internship\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.deps.json
+D:\Tatvasoft Internship\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.dll
+D:\Tatvasoft Internship\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.pdb
+D:\Tatvasoft Internship\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tatvasoft Internship\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.AssemblyInfoInputs.cache
+D:\Tatvasoft Internship\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.AssemblyInfo.cs
+D:\Tatvasoft Internship\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.csproj.CoreCompileInputs.cache
+D:\Tatvasoft Internship\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.sourcelink.json
+D:\Tatvasoft Internship\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.dll
+D:\Tatvasoft Internship\BooksApi\BooksApi.Data\obj\Debug\net8.0\refint\BooksApi.Data.dll
+D:\Tatvasoft Internship\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.pdb
+D:\Tatvasoft Internship\BooksApi\BooksApi.Data\obj\Debug\net8.0\ref\BooksApi.Data.dll
